@@ -1,1 +1,1 @@
-select text from test;
+select * from test;
